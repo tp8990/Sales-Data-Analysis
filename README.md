@@ -1,6 +1,6 @@
 # Sales-Data-Analysis
 Using Power BI
-Analysed ecomerce sales data and created an interactive dashboard using Power BI .
+Analysed ecommerce sales data and created an interactive dashboard using Power BI .
 
 •	Created interactive dashboard to track and analyse online sales data. 
 •	Used complex parameters to drill down in worksheet and customization using filters and slicers. 
